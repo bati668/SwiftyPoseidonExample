@@ -1,0 +1,24 @@
+{
+  "originHash" : "6f587a12793f2b6feb956c5316460598d8faa36f0c014540056fd8b10759afa2",
+  "pins" : [
+    {
+      "identity" : "bigint",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/attaswift/BigInt.git",
+      "state" : {
+        "revision" : "793a7fac0bfc318e85994bf6900652e827aef33e",
+        "version" : "5.4.1"
+      }
+    },
+    {
+      "identity" : "swiftyposeidon",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/bati668/SwiftyPoseidon.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "bb9013bba2c1621324c1ef31e13e2a42491111a9"
+      }
+    }
+  ],
+  "version" : 3
+}
